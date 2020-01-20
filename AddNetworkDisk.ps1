@@ -1,0 +1,1 @@
+net use Z: \\xc-s-aiw0158.xc.abb.com\E$ /user:xc-s-aiw0158\pl-admin-tp4 
