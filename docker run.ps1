@@ -1,0 +1,1 @@
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Hello123Hello!@#" -p 1400:1433 -v c:/data/mysql/data:/var/opt/mssql/data -d --name Ccrp mcr.microsoft.com/mssql/server:2017-latest
